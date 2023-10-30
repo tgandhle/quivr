@@ -67,4 +67,3 @@ else
     done
 fi
 
-echo "Migration script completed."
